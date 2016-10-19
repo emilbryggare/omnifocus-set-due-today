@@ -5,12 +5,11 @@ AppleScript for Omnifocus to set due date for selected tasks.
 OmniFocus Library. Download at https://github.com/brandonpittman/OmniFocus.
 
 ## Installation
-Download the script to the OmniFocus script folder.
-Open folder from OmniFocus by clicking Help -> Open Scripts Folder.
+1. Download the script to the OmniFocus script folder.
+2. Open folder from OmniFocus by clicking Help -> Open Scripts Folder.
+3. Add script to OmniFocus toolbar by clicking View -> Customize Toolbar....
 
-Add script to OmniFocus toolbar by clicking View -> Customize Toolbar....
-
-Add a global keyboard shortcut to script by:
+### Add a global keyboard (Optional)
 1. Open Automator (Mac OS - Installed by default)
 2. Create a new Service. (File -> New -> Service)
 3. Add action "Run AppleScript".
